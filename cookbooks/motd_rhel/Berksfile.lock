@@ -1,0 +1,7 @@
+DEPENDENCIES
+  motd_rhel
+    path: .
+    metadata: true
+
+GRAPH
+  motd_rhel (0.1.0)

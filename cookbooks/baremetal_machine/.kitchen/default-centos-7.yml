@@ -1,0 +1,6 @@
+---
+hostname: 127.0.0.1
+port: '2222'
+username: vagrant
+ssh_key: C:/Users/RM/Downloads/learn_chef/cookbooks/baremetal_machine/.kitchen/kitchen-vagrant/kitchen-baremetal_machine-default-centos-7/.vagrant/machines/default/virtualbox/private_key
+last_action: converge
